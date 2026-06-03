@@ -158,11 +158,9 @@ Xóa bài viết có id = 1.
 
 Tổng số Request đã kiểm thử: 4
 
-Tổng số Test Script thực hiện thành công: 100%
-
 ---
 
-# 6. Nhận xét
+# 5. Nhận xét
 
 ### Ưu điểm
 
@@ -178,6 +176,6 @@ Tổng số Test Script thực hiện thành công: 100%
 
 ---
 
-# 7. Kết luận
+# 6. Kết luận
 
 Qua bài thực hành, sinh viên đã làm quen với công cụ Postman và thực hiện thành công các phương thức GET, POST, PUT và DELETE. Đồng thời biết cách xây dựng các Test Script cơ bản để kiểm tra kết quả trả về của API. Đây là công cụ hữu ích trong quá trình kiểm thử phần mềm và phát triển các hệ thống sử dụng RESTful API.
