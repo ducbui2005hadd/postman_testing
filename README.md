@@ -144,29 +144,10 @@ Xóa bài viết có id = 1.
 
 ![DELETE Request](Screenshot%202026-06-03%20173229.png)
 
----
-
-# 4. Test Script
-
-Ví dụ kiểm tra mã trạng thái của Response:
-
-```javascript
-pm.test("Status code is 200", function () {
-    pm.response.to.have.status(200);
-});
-```
-
-Kết quả thực hiện:
-
-* Tất cả các bài kiểm thử đều PASS.
-
-### Hình minh họa
-
-![Test Result](screenshots/test-result.png)
 
 ---
 
-# 5. Kết quả đạt được
+# 4. Kết quả đạt được
 
 | Request | Kết quả |
 | ------- | ------- |
